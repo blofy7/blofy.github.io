@@ -12,7 +12,8 @@
 	font-size: 50px;
 	text-align: center;
 	font-family: 'Georgia', serif;
-	background-color: black;
+	background-color:#519872;
+	Color:white;
 }
 h4 {
 	font-style: italic;
@@ -22,6 +23,21 @@ h4 {
 h3 {
 	font-size: 30px;
 }
+P {
+	font-size: 20px;
+	font-family: 'Times New Roman', serif;
+}
+
+img {
+	float:right;
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-bottom: 3%;
+	  filter: drop-shadow(4px 4px);
+
+
+}
+
 
 
 /*Don't worry about this section yet*/
